@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "cloudCodePrac"
+        }, 
+        "cloudCodePrac": {
+            "applicationId": "ptsQzqVoExsr3nf75lXhOBw9WElx35q3qJ86jYmF", 
+            "masterKey": "co1wYKHv1BwpR4kmGqxs8IUnyxqe82REcqTiKSXA"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.3"
+    }
+}
